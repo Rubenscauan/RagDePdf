@@ -1,0 +1,8 @@
+crewai
+langchain-groq
+sentence-transformers
+langchain
+langchain-core
+crewai-tools
+embedchain
+langchain-huggingface
